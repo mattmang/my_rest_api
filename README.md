@@ -13,7 +13,7 @@ This project is a simple RESTful API built using Django and Django REST Framewor
 ### Installation
 
 1. **Clone the Repository**:
-    git clone <your-repository-url>
+    git clone <https://github.com/mattmang/my_rest_api.git>
     cd my_rest_api
 
 2. **Create a Virtual Environment** (optional but recommended):
