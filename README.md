@@ -16,17 +16,17 @@ This project is a simple RESTful API built using Django and Django REST Framewor
     git clone <https://github.com/mattmang/my_rest_api.git>
     cd my_rest_api
 
-2. **Create a Virtual Environment** (optional but recommended):
+3. **Create a Virtual Environment** (optional but recommended):
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3. **Install Dependencies**:
+4. **Install Dependencies**:
     pip install django djangorestframework
 
-4. **Run the Server**:
+5. **Run the Server**:
     python manage.py runserver
 
-5. **Access the API**:
+6. **Access the API**:
    Open your browser and navigate to `http://127.0.0.1:8000/api/cars/` to access the API endpoints.
 
 ---
